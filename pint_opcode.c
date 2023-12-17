@@ -3,7 +3,7 @@
  * f_pint - prints the top element of the stack
  * @head: stack head to the ptr
  * @counter: line_Number parameter
- * Return: no return val 
+ * Return: no return val
 */
 void f_pint(stack_t **head, unsigned int counter)
 {
